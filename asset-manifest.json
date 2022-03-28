@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Watchers/static/css/main.677a6109.css",
+    "main.js": "/Watchers/static/js/main.df09d8e3.js",
+    "index.html": "/Watchers/index.html",
+    "main.677a6109.css.map": "/Watchers/static/css/main.677a6109.css.map",
+    "main.df09d8e3.js.map": "/Watchers/static/js/main.df09d8e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677a6109.css",
+    "static/js/main.df09d8e3.js"
+  ]
+}
