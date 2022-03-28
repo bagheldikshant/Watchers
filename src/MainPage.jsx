@@ -17,11 +17,11 @@ export default class MainPage extends Component {
               <div class="cvp">
                 <h5 class="card-title font-weight-bold">Yail wrist watch</h5>
                 <p class="card-text">$299</p>{" "}
-                <a href="#" class="btn details px-auto">
+                <a href="/" class="btn details px-auto">
                   view details
                 </a>
                 <br />{" "}
-                <a href="#" class="btn cart px-auto">
+                <a href="/" class="btn cart px-auto">
                   ADD TO CART
                 </a>
               </div>
@@ -39,11 +39,11 @@ export default class MainPage extends Component {
               <div class="cvp">
                 <h5 class="card-title font-weight-bold">Yail wrist watch</h5>
                 <p class="card-text">$299</p>{" "}
-                <a href="#" class="btn details px-auto">
+                <a href="/" class="btn details px-auto">
                   view details
                 </a>
                 <br />{" "}
-                <a href="#" class="btn cart px-auto">
+                <a href="/" class="btn cart px-auto">
                   ADD TO CART
                 </a>
               </div>
@@ -61,11 +61,11 @@ export default class MainPage extends Component {
               <div class="cvp">
                 <h5 class="card-title font-weight-bold">Yail wrist watch</h5>
                 <p class="card-text">$299</p>{" "}
-                <a href="#" class="btn details px-auto">
+                <a href="/" class="btn details px-auto">
                   view details
                 </a>
                 <br />{" "}
-                <a href="#" class="btn cart px-auto">
+                <a href="/" class="btn cart px-auto">
                   ADD TO CART
                 </a>
               </div>
@@ -83,11 +83,11 @@ export default class MainPage extends Component {
               <div class="cvp">
                 <h5 class="card-title font-weight-bold">Yail wrist watch</h5>
                 <p class="card-text">$299</p>{" "}
-                <a href="#" class="btn details px-auto">
+                <a href="/" class="btn details px-auto">
                   view details
                 </a>
                 <br />{" "}
-                <a href="#" class="btn cart px-auto">
+                <a href="/" class="btn cart px-auto">
                   ADD TO CART
                 </a>
               </div>
@@ -105,11 +105,11 @@ export default class MainPage extends Component {
               <div class="cvp">
                 <h5 class="card-title font-weight-bold">Yail wrist watch</h5>
                 <p class="card-text">$299</p>{" "}
-                <a href="#" class="btn details px-auto">
+                <a href="/" class="btn details px-auto">
                   view details
                 </a>
                 <br />{" "}
-                <a href="#" class="btn cart px-auto">
+                <a href="/" class="btn cart px-auto">
                   ADD TO CART
                 </a>
               </div>
@@ -127,11 +127,11 @@ export default class MainPage extends Component {
               <div class="cvp">
                 <h5 class="card-title font-weight-bold">Yail wrist watch</h5>
                 <p class="card-text">$299</p>{" "}
-                <a href="#" class="btn details px-auto">
+                <a href="/" class="btn details px-auto">
                   view details
                 </a>
                 <br />{" "}
-                <a href="#" class="btn cart px-auto">
+                <a href="/" class="btn cart px-auto">
                   ADD TO CART
                 </a>
               </div>
@@ -149,11 +149,11 @@ export default class MainPage extends Component {
               <div class="cvp">
                 <h5 class="card-title font-weight-bold">Yail wrist watch</h5>
                 <p class="card-text">$299</p>{" "}
-                <a href="#" class="btn details px-auto">
+                <a href="/" class="btn details px-auto">
                   view details
                 </a>
                 <br />{" "}
-                <a href="#" class="btn cart px-auto">
+                <a href="/" class="btn cart px-auto">
                   ADD TO CART
                 </a>
               </div>
@@ -171,11 +171,11 @@ export default class MainPage extends Component {
               <div class="cvp">
                 <h5 class="card-title font-weight-bold">Yail wrist watch</h5>
                 <p class="card-text">$299</p>{" "}
-                <a href="#" class="btn details px-auto">
+                <a href="/" class="btn details px-auto">
                   view details
                 </a>
                 <br />{" "}
-                <a href="#" class="btn cart px-auto">
+                <a href="/" class="btn cart px-auto">
                   ADD TO CART
                 </a>
               </div>

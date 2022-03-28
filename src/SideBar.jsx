@@ -12,37 +12,37 @@ class SideBar extends Component {
             >
               <ul class="nav flex-column flex-nowrap overflow-hidden">
                 <li class="nav-item sidebar-item">
-                  <a class="nav-link text-truncate" href="#">
+                  <a class="nav-link text-truncate" href="/">
                     <span class="d-none d-sm-inline">Account Main</span>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-truncate" href="#">
+                  <a class="nav-link text-truncate" href="/">
                     <span class="d-none d-sm-inline">New Orders</span>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-truncate" href="#">
+                  <a class="nav-link text-truncate" href="/">
                     <span class="d-none d-sm-inline">Orders History</span>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-truncate" href="#">
+                  <a class="nav-link text-truncate" href="/">
                     <span class="d-none d-sm-inline">My Wishlist</span>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-truncate" href="#">
+                  <a class="nav-link text-truncate" href="/">
                     <span class="d-none d-sm-inline">Transactions</span>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-truncate" href="#">
+                  <a class="nav-link text-truncate" href="/">
                     <span class="d-none d-sm-inline">Profile Setting</span>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-truncate" href="#">
+                  <a class="nav-link text-truncate" href="/">
                     <span class="d-none d-sm-inline">Log out</span>
                   </a>
                 </li>
