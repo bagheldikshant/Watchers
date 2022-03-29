@@ -1,12 +1,11 @@
 import React, { Component } from "react";
 import SideBar from "./SideBar";
 
-export default class MainContent extends Component {
-  render() {
+const MainContent = ()=> {
     return (
       <React.Fragment>
         <SideBar />
       </React.Fragment>
     );
-  }
 }
+ export default MainContent;

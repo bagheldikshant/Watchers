@@ -1,7 +1,6 @@
-import React, { Component } from "react";
+import React from "react";
 import MainPage from "./MainPage";
-class SideBar extends Component {
-  render() {
+const SideBar = ()=> {
     return (
       <React.Fragment>
         <div className="container-fluid">
@@ -55,7 +54,6 @@ class SideBar extends Component {
         </div>
       </React.Fragment>
     );
-  }
 }
 
 export default SideBar;
